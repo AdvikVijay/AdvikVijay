@@ -6,7 +6,7 @@
 ### 📖 About Me
 - 🎓 **Student:** Pursuing a B.Tech in Electrical and Electronics Engineering at VIT, Vellore.
 - 💻 **Developer:** Passionate about AI/ML, web development, and predictive analytics.
-- 📧 **Contact:** [advikvijay271@gmail.com](mailto:advikvijay271@gmail.com) | [LinkedIn](https://www.linkedin.com/in/advik-vijay-929090267/) | [GitHub](https://github.com/AdvikVijay)
+- 📧 **Contact:** [Gmail](mailto:advikvijay271@gmail.com) | [LinkedIn](https://www.linkedin.com/in/advik-vijay-929090267/) | [GitHub](https://github.com/AdvikVijay)
 
 ---
 
@@ -34,10 +34,12 @@
 ---
 
 ### 🌟 Certifications
-- 🏅 **Generative AI:** AWS (Udacity)
-- 📊 **Google Analytics Certification**
-- 🔍 **Machine Learning:** SAS (End-to-End Practice)
-
+- 🏅 **Data Science Certifications**: IBM (*Data Science, Python for Data Science, SQL*)  
+- 🤖 **Generative AI**: AWS (Udacity)
+- 📊 **Machine Learning**: SAS (*End-to-End Practice*)   
+- 🧠 **Artificial Intelligence Fundamentals**: Cognizant, IBM  
+- 🌐 **Big Data, Artificial Intelligence, and Ethics**: University of California, Davis  
+- 📈 **Google Analytics Certification**: Google  
 ---
 
 ### 📊 GitHub Stats
