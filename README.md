@@ -46,6 +46,11 @@
 
 ---
 
+### 🐍 Contribution Snake Game
+![GitHub Snake Animation](https://github.com/AdvikVijay/AdvikVijay/raw/output/github-snake.svg)
+
+---
+
 ### 🌐 Connect with Me!
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/advik-vijay-929090267/)
