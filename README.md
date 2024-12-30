@@ -10,12 +10,48 @@
 
 ---
 
-### 🔧 Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-6DB33F?style=flat-square&logo=Tableau&logoColor=white)
+## 🔧 Skills
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### **Technologies**
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300C7C7.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-%2300A100.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%2300CC66.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+
+### **Machine Learning Libraries**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-%2343853D.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### **Other Skills**
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%231E88E5.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23FF6F61.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-%23A6CEE3.svg?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
