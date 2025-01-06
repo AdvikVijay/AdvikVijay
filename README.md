@@ -90,7 +90,7 @@
 ---
 
 ### 🌐 Connect with Me!
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=Google-Chrome&logoColor=white)](https://adviks-portfolio-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/advik-vijay-929090267/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/AdvikVijay)
 
